@@ -1,0 +1,15 @@
+{
+    "background_color": "#a3a2a0",
+    "description": "A simple web app test.",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "images/shortcut-icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "Web App Test",
+    "short_name": "WebApp",
+    "start_url": "."
+  }
