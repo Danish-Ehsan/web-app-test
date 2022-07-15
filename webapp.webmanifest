@@ -11,5 +11,5 @@
     ],
     "name": "Web App Test",
     "short_name": "WebApp",
-    "start_url": "/"
+    "start_url": "."
   }
