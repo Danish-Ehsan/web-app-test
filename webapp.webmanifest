@@ -1,7 +1,7 @@
 {
     "background_color": "#a3a2a0",
     "description": "A simple web app test.",
-    "display": "standalone",
+    "display": "fullscreen",
     "icons": [
       {
         "src": "images/shortcut-icon.png",
